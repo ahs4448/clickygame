@@ -1,0 +1,70 @@
+
+p{
+    font-size: 35px;
+}
+
+
+.img-thumbnail{
+ margin: 13px;
+ padding: 0px;
+ box-shadow: 2px 1px 8px;
+ background-size: 400px;
+}
+
+div{
+    align-content: center;
+    margin-left: 34px; 
+      
+}
+
+.row{
+padding-left:40px;
+}
+
+img:hover{
+cursor: pointer;
+box-shadow:5px 5px 5px rgb(184, 61, 4);
+padding: 4px;
+
+}
+
+nav{
+    background-color:  rgb(7, 7, 58) !important;
+    color: rgb(247, 197, 150);
+    padding: 30px;
+    width: 75%;
+    border-radius: 10px;
+    margin:20px;
+    display: inline-block;
+}
+
+#banner{
+    width: 30%;
+    display: block;
+}
+
+#logo{
+    width: 10%;
+}
+
+
+.first{
+width: 66%;
+background-size: 100%, 100%;
+}
+
+.somethin{
+    margin: 40px;
+}
+
+.col-md-3{
+    margin: -20px;
+}
+
+h1{
+    color: silver
+}
+
+.container{
+    margin: 0 auto;
+}

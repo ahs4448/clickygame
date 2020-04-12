@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h2{
+    color: white;
+    font-family: "Orbitron";
+}
+
+#title{
+    color: rgb(250, 120, 34);
+    font-family: "Orbitron";
+    font-weight: 900;
+}
+
+.img-thumbnail{
+ margin: 19px;
+ padding: 75px;
+ box-shadow: 2px 1px 8px;
+ 
+}
+
+.img-thumbnail:hover{
+cursor: pointer;
+box-shadow:5px 5px 5px rgb(184, 61, 4);
+padding: 80px;
+margin:14px;
+}
+
+.Lbreak{
+    display:block;
+}
+
+.bg-light{
+    background-color:  rgb(0, 0, 68) !important;
+    box-shadow:5px 5px 5px;
+}
+
+.navbar-light .navbar-brand{
+    color:white !important;
+}
+
+#first{
+background-image: url("Black_Art_2.jpg");
+ background-size:cover; 
+}
+
+#second{
+    background-image: url("Chaos_Bomber.png");
+ background-size:cover; 
+}
+
+#third{
+        background-image: url("icon.jpg");
+     background-size:cover; 
+    }
+#fourth{
+    background-image: url("Blue_4.jpg");
+    background-size:cover; 
+}
+
+#fifth{
+    background-image: url("MagnetBomber.png");
+    background-size:cover; 
+}
+
+#sixth{
+    background-image: url("Aqua_2.jpg");
+    background-size:cover; 
+}
+
+#seventh{
+    background-image: url("Green.jpg");
+    background-size:cover; 
+}
+
+#eigth{
+    background-image: url("2470335-lightning_bomber.jpg");
+    background-size:cover; 
+}
+#ninth{
+    background-image: url("Plasma_Bomber.png");
+    background-size:cover; 
+}
+
+#tenth{
+    background-image: url("Pink_2.jpg");
+    background-size:cover; 
+}
+
+#eleventh{
+    background-image: url("Louie_2.jpg");
+    background-size:cover; 
+}
+
+#twelfth{
+    background-image: url("Mermaid_Bomber.jpg");
+    background-size: cover;
+}
+
+footer{
+    background-color: rgb(0, 0, 68);
+    padding:40px;
+    box-shadow: 2px 2px 2px;
+}

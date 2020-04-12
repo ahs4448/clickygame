@@ -48,7 +48,7 @@ class ClickyApp extends Component {
       },
       {
         name: 'Chaos Bomber',
-        img: './images/Chaos_Bomber.png'
+        img: './images/Chaos_bomber.png'
       },
       {
         name: 'Green Bomber',
